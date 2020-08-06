@@ -1,0 +1,29 @@
+.container{
+    font: 24px;
+    color:  rgb(190, 63, 63);
+}
+.container {
+    text-align: center;
+}
+
+#banner {
+    height: 500px;
+    width: 1300px;
+    text-align: center;
+}
+
+.main {
+    text-align: justify;
+    border: 10px solid;
+    border-color:  rgb(190, 63, 63);
+    font-size: 34px;
+}
+
+.nav-link {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#visual {
+    float: right;
+}
