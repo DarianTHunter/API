@@ -1,4 +1,4 @@
-.container{
+/* .container{
     font: 24px;
     color:  rgb(190, 63, 63);
 }
@@ -10,7 +10,7 @@
     height: 500px;
     width: 1000px;
     text-align: center;
-}
+} */
 
 .main {
     text-align: justify;
@@ -27,3 +27,8 @@
 #visual {
     float: right;
 }
+
+#animation {
+    font-size: 100px
+}
+
