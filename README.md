@@ -5,3 +5,5 @@
 * **_OR_**
 * Create an app using any third party API
 * Add styling to your app 
+
+![WeatherAPI](API.gif)
